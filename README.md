@@ -1,12 +1,11 @@
    # Portfolio
 ### Applied Data Sciences KB-74
-### Jorge Edmundo Ortiz Durán
-### Student Number 17170311
+### Petri Johannes Pellinen
+### Student Number: 18116256
 
 1. ### Introduction
 
-My name is Jorge, I am 23 years old and I am Mexican, I am a student of the computer systems engineering career at the Instituto Politécnico Nacional, in Mexico. I am currently in the Applied Data Science course, at The Hague University of Applied Sciences, in the Netherlands. I am working on a project called Cyber Security. In this project we apply the concepts and use the tools provided by the course. Libraries like Tweepy, Pandas and Numpy are also used.
-Part of the task we have to complete during the course is to finish courses that have been assigned to us on the DataCamp and Coursera platform, in order to learn how to use tools to achieve our goal in our project. Below is a compilation of the work I have done during this course.
+My name is Petri Pellinen, I am a 25-year old student from Tampere, Finland. At my home university (Tampere University of Applied Sciences) I study software engineering in the department of ICT-engineering. This is my third year of a four-year program to graduate with a title of ICT-engineer or Bachelor of Science. I’m now studying Applied Data Science in The Hague University of Applied Sciences. It is a course of different group projects. My project group is working on a project called Cyber Security. In the project we use machine learning and programming skills learned as the course goes on. Programming learning happens mainly in learning environment called Data Camp, where we are assigned programming tasks to complete. This portfolio is a proof of my efforts on the group project.
 
 2. ### Jargon
  
@@ -28,19 +27,13 @@ Used jargon for Cybersecurity is listed below.
 
 
                 
-3. ### Data Camp assignments
-Here I attached the proof of the accomplish of all the courses that we had to take during this course to 
-prepare yourself for the project, and get tools for the developing of the Python and Machine Learning tasks.
+3. ### Project overwiev
 
-![Data Camp XP](Data_camp_XP.png)
-
-![Data Camp courses_1](cursos_1.png)
-
-![Data Camp courses_1](cursos_2.png)
-                
+Social networks have been a powerful platform to achieve globalization in recent years, huge amounts of data is generated every day. Sharing information with a large demographic has never been easier. Our focus on this project is one of the most popular social media platforms; Twitter. More importantly for us, we focus on a problem called hacktivism. Hacktivism is the use of technology to promote political agenda or social change. Hacktivists often promote something like freedom of information and human rights, of which both are very important but the methods are often questionable.
+‘Cyber Security’ is a project that aims to create two working classifiers for Twitter data. The main goal is identifying hacktivists based on their tweets. This is achieved by building two classifiers with different functions and machine learning and training them with Twitter data. The two classifiers tell if the user is involved in the hacktivism scene and the machine learning part tries to detect patterns and make predictions on Twitter data. In this kind of data, some text pre-processing and manual labelling is necessary before the data can be actually used in the classifiers. My effort on the project focused mainly on the data cleaning and processing.
 
 
-4. ### Another Data Camp Courses
+4. ### Data Camp
      
       I took this courses in order to improve my skills with the objective to apply this knowleage in the project.
      
