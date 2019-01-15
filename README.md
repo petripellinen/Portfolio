@@ -85,15 +85,11 @@ The result from the test data counter is seen here. There is a lot of usernames 
 
 ![10](10.JPG)
 
-The whole code for the data processing and word counters is linked below.
-
-* 1.-[Data processing and counters](Word & Hashtag counter.md)
+The whole code is uploaded to the repository as Word & Hashtag counter.
 
 5.2. Other work
 
-Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses. The excel file is linked below.
-
-* 1.-[User names with ID](Twitter_accounts_with_ID.xlsx)
+Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses. The Excel file containing all the user names with ID numbers is uploaded to the repository as User names with ID.
 
 ![11](11.JPG)
 
