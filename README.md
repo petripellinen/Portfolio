@@ -47,11 +47,9 @@ Here is a proof of completing the assigned tasks in Data Camp. In the picture is
  
  In this chapter I will present and explain my work on the project with parts of the actual python code used in the project. I will go over my work on the code in small parts. I will also present the results my code with pictures and explanations. All our coding was done in Jupyter Python Notebooks, so all examples are from a Python Notebook. I will add the whole notebook to the end of this portfolio.
  
- 
- 
- ![Coursera](Coursera_1.png)
- 
-  ![Coursera](Coursera_2.png)
+5.1. Examples
+
+My main work was to pre-process the tweets and add new keywords to an existing list provided by our product owner. First thing to do was to get a developer key from Twitter and setup our API. After a few days of waiting, one of our group members got the key delivered. The key is setup here ready for future use in # Consume: and # Access: -sections. In addition, there is all the different imports needed in this part of the project.
 
 
 6. ### Python Notebooks about the project as an evidence of my abilities
