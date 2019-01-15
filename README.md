@@ -9,7 +9,7 @@ My name is Petri Pellinen, I am a 25-year old student from Tampere, Finland. At 
 
 2. ### Jargon
  
-Used jargon for Cybersecurity is listed below.
+Frequent and important words used in Cybersecurity.
 
  * _API_.- Abbreviation for application programming interface: a way ofcommunicating with a particular computer program or internet service.
  
