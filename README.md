@@ -98,7 +98,7 @@ More manual work was involved in labelling the training set for our classifier. 
 
 5.3. Presentations
 
-Everyone of our group has to do a presentation at least two times. We decided to do the presentations alone to keep the group focused on the project while only one member is preparing the presentation. I have done three presentations now. All three of my presentations are shown in the end of this portfolio.
+Everyone of our group has to do a presentation at least two times. We decided to do the presentations alone to keep the group focused on the project while only one member is preparing the presentation. I have done three presentations now. All three of my presentations are shown in the links below.
 
  * 1.- [My first Presentation](cybersecurity_week2.pdf)
  
