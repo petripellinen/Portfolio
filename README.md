@@ -35,15 +35,18 @@ Social networks have been a powerful platform to achieve globalization in recent
 
 4. ### Data Camp
      
-    Here is a proof of completing the assigned tasks in Data Camp. In the first picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises.
+    Here is a proof of completing the assigned tasks in Data Camp. In the picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises and the proof of completion of assigned tasks.
      
      ![Account banner](banner.JPG)
      ![Tasks_1](tasks1.JPG)
      ![Tasks_2](tasks2.JPG)
      
      
- 5. ### Coursera
- And also here I attached the proof of the finished chapters on Coursera platform.
+ 5. ### My Work on the project
+ 
+ In this chapter I will present and explain my work on the project with parts of the actual python code used in the project. I will go over my work on the code in small parts. I will also present the results my code with pictures and explanations. All our coding was done in Jupyter Python Notebooks, so all examples are from a Python Notebook. I will add the whole notebook to the end of this portfolio.
+ 
+ 
  
  ![Coursera](Coursera_1.png)
  
