@@ -85,6 +85,9 @@ The result from the test data counter is seen here. There is a lot of usernames 
 
 ![10](10.JPG)
 
+The whole code for the data processing and word counters is linked below.
+
+* 1.-[Data processing and counters](Word & Hashtag counter.ipynb)
 
 5.2. Other work
 
