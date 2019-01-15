@@ -37,7 +37,7 @@ Social networks have been a powerful platform to achieve globalization in recent
      
     Here is a proof of completing the assigned tasks in Data Camp. In the first picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises.
      
-     * 1.- (banner.JPG)
+     * 1.- [Account banner](banner.JPG)
      
      
  5. ### Coursera
