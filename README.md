@@ -88,7 +88,9 @@ The result from the test data counter is seen here. There is a lot of usernames 
 
 5.2. Other work
 
-Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses.
+Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses. The excel file is linked below.
+
+* 1.-[User names with ID](Twitter_accounts_with_ID.xlsx)
 
 ![11](11.JPG)
 
