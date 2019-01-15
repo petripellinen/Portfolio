@@ -86,6 +86,25 @@ The result from the test data counter is seen here. There is a lot of usernames 
 ![10](10.JPG)
 
 
+5.2. Other work
+
+Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses.
+
+![11](11.JPG)
+
+More manual work was involved in labelling the training set for our classifier. There are 16 000 tweets combined that had to be labelled by hand. The tweets are labelled for the classifier training data. We had to do this by hand because there is no function to determine if a tweet is considered related to hacktivism. The rules for the labelling was to label everything hacking/hacktivism related to value 1 and all else to value 0. If the tweet was not in English, the label for that is also 0. In the next picture there is an example from the labelled tweets. In the first label 1 there is talking about accessing a bitcoin wallet, so it is considered a hacktivist tweet. The 0 labels are mainly just comments to someone directly or otherwise neutral.
+
+![12](12.JPG)
+
+5.3. Presentations
+
+Everyone of our group has to do a presentation at least two times. We decided to do the presentations alone to keep the group focused on the project while only one member is preparing the presentation. I have done three presentations now. All three of my presentations are shown in the end of this portfolio.
+
+ * 1.- [My first Presentation](cybersecurity_week2.pdf)
+ 
+  * 2.- [My second Presentation](cybersecurity_week8.pdf)
+  
+   * 3.- [My third Presentation](cybersecurity_week13.pdf)
 
 6. ### Python Notebooks about the project as an evidence of my abilities
 
