@@ -33,13 +33,14 @@ Social networks have been a powerful platform to achieve globalization in recent
 ‘Cyber Security’ is a project that aims to create two working classifiers for Twitter data. The main goal is identifying hacktivists based on their tweets. This is achieved by building two classifiers with different functions and machine learning and training them with Twitter data. The two classifiers tell if the user is involved in the hacktivism scene and the machine learning part tries to detect patterns and make predictions on Twitter data. In this kind of data, some text pre-processing and manual labelling is necessary before the data can be actually used in the classifiers. My effort on the project focused mainly on the data cleaning and processing.
 
 
-4. ### Data Camp
+4. ### Data Camp  
+
+Here is a proof of completing the assigned tasks in Data Camp. In the picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises and the proof of completion of assigned tasks.
+    
      
-    Here is a proof of completing the assigned tasks in Data Camp. In the picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises and the proof of completion of assigned tasks.
-     
-     ![Account banner](banner.JPG)
-     ![Tasks_1](tasks1.JPG)
-     ![Tasks_2](tasks2.JPG)
+   ![Account banner](banner.JPG)
+   ![Tasks_1](tasks1.JPG)
+   ![Tasks_2](tasks2.JPG)
      
      
  5. ### My Work on the project
