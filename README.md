@@ -51,6 +51,41 @@ Here is a proof of completing the assigned tasks in Data Camp. In the picture is
 
 My main work was to pre-process the tweets and add new keywords to an existing list provided by our product owner. First thing to do was to get a developer key from Twitter and setup our API. After a few days of waiting, one of our group members got the key delivered. The key is setup here ready for future use in # Consume: and # Access: -sections. In addition, there is all the different imports needed in this part of the project.
 
+![1](1.JPG)
+
+This part of the code is the setup of our API. It uses the authorization tokens from previous picture to complete the authorization.
+
+![2](2.JPG)
+
+This is the actual extraction of the tweets. The purpose is to extract tweets and save them to a .txt -file. A pandas data frame is generated for future use. Usernames of the users’ were also provided by the project owner. The users we are interested in are known to be hacktivists. In the # We add relevant data: -part, one can see the format of the data frame.
+
+![3](3.JPG)
+
+When the data frame is formed, it is appended to a variable called result. Result will be used later. The last thing for the extraction is to print possible error messages (part of testing).
+
+![4](4.JPG)
+
+Now that we have a data frame of the tweets, they are displayed in the next picture. The Tweets-column of the data frame is messy, therefore cleaning is going to be the next step.
+
+![5](5.JPG)
+
+Here is displayed my function to clean the tweets. First, everything is made lower case with a lambda function. That way in the future counting the frequency is easier. Next up is defining the punctuation removal function. It is a simple function that can be applied to strings and data frames containing strings. For this purpose I only use the Tweets-column of the data frame. Single_words-list is only to remove popular twitter words like rt (retweet) or special symbols, that the stop words miss. I’ve included both English and Spanish stop words to the removal process because some of the tweets were partially or completely in Spanish. Stop words are for example prepositions or articles in English language. Before removing the stop words “the” was the most used word in the tweets. That information is not relevant for us. The stop word removal is done by a lambda function. It checks if a word in the data frame is in stop words- or single words-lists and removes any matches.
+
+![6](6.JPG)
+
+This is the form tweets looks like now after the cleaning. There is still a lot of user names mentioned but they are relevant information because they are mentioned in a tweet that someone in our hacktivist list has written.
+
+![7](7.JPG)
+
+The word counter is a very simple function from collections. It just generates a new panda series with the words and values for the word frequency.
+
+![8](8.JPG)
+
+The result from the test data counter is seen here. There is a lot of usernames involved here but also some very useful words regarding our project. For example there is the words leaked and anonymous that are popular terms in the hacktivism scene. With this counter function it is possible to add more keywords in our existing keyword list.
+
+![9](9.JPG)
+
+
 
 6. ### Python Notebooks about the project as an evidence of my abilities
 
