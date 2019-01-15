@@ -1,5 +1,5 @@
    # Portfolio
-### Applied Data Sciences KB-74
+### Applied Data Science, KB-74
 ### Petri Johannes Pellinen
 ### Student Number: 18116256
 
@@ -35,13 +35,10 @@ Social networks have been a powerful platform to achieve globalization in recent
 
 4. ### Data Camp
      
-      I took this courses in order to improve my skills with the objective to apply this knowleage in the project.
+    Here is a proof of completing the assigned tasks in Data Camp. In the first picture is the main banner of my Data Camp account showing XP earned and the amount of completed courses and exercises.
      
-     * 1.- [Deep Learning in Python](Statement_of_Accomplishment_Deep_Learning_in_Python.pdf)
- 
-     * 2.- [Linear Classifiers in Python](Statement_of_Accomplishment_Linear_Classifiers_in_Python_Course.pdf)
+     * 1.- (banner.JPG)
      
-     * 3.- [Importing data in Python (Part 2) ](Statement_of_Accomplishment_importing_data_in_python_part_2.pdf)
      
  5. ### Coursera
  And also here I attached the proof of the finished chapters on Coursera platform.
