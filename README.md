@@ -52,7 +52,6 @@ Here is a proof of completing the assigned tasks in Data Camp. In the picture is
 My main work was to pre-process the tweets and add new keywords to an existing list provided by our product owner. First thing to do was to get a developer key from Twitter and setup our API. After a few days of waiting, one of our group members got the key delivered. The key is setup here ready for future use in # Consume: and # Access: -sections. In addition, there is all the different imports needed in this part of the project.
 
 ![1](1.JPG)
-![2](2.JPG)
 
 This part of the code is the setup of our API. It uses the authorization tokens from previous picture to complete the authorization.
 
