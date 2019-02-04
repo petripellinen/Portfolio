@@ -43,11 +43,18 @@ Here is a proof of completing the assigned tasks in Data Camp. In the picture is
    ![Tasks_2](tasks2.JPG)
      
      
- 5. ### My Work on the project
+ 5. ### Coursera
+ 
+ Here is a proof of completing the assigned tasks in Coursera. In these pictures are screen shots from the course overview and the completed tasks from the machihne learning course.
+ 
+ ![Weeks_1-3](Coursera_1.JPG)
+ ![Week_6](Coursera_2.JPG)
+     
+ 6. ### My Work on the project
  
  In this chapter I will present and explain my work on the project with parts of the actual python code used in the project. I will go over my work on the code in small parts. I will also present the results my code with pictures and explanations. All our coding was done in Jupyter Python Notebooks, so all examples are from a Python Notebook. I will add the whole notebook to the end of this portfolio.
  
-5.1. Examples
+6.1. Examples
 
 My main work was to pre-process the tweets and add new keywords to an existing list provided by our product owner. First thing to do was to get a developer key from Twitter and setup our API. After a few days of waiting, one of our group members got the key delivered. The key is setup here ready for future use in # Consume: and # Access: -sections. In addition, there is all the different imports needed in this part of the project.
 
@@ -87,7 +94,7 @@ The result from the test data counter is seen here. There is a lot of usernames 
 
 The whole code is uploaded to the repository as Word & Hashtag counter.
 
-5.2. Other work
+6.2. Other work
 
 Besides the coding, there was some manual labelling and preparing to do. To make extraction possible with Twitter user id, I manually converted the user name to a user id one by one in a website called tweeterid.com. In this screen capture I converted my own Twitter handle to a twitter id. I did this to all our 68 users and updated the results to an excel file that the extractor uses. The Excel file containing all the user names with ID numbers is uploaded to the repository as User names with ID.
 
@@ -97,7 +104,7 @@ More manual work was involved in labelling the training set for our classifier. 
 
 ![12](12.JPG)
 
-5.3. Presentations
+6.3. Presentations
 
 Everyone of our group has to do a presentation at least two times. We decided to do the presentations alone to keep the group focused on the project while only one member is preparing the presentation. I have done three presentations now. All three of my presentations are shown in the links below.
 
@@ -107,7 +114,7 @@ Everyone of our group has to do a presentation at least two times. We decided to
   
    * 3.- [My third Presentation](cybersecurity_week13.pdf)
 
-6. ### Planning
+7. ### Planning
 
 We used Microsoft Planner to plan our sprints. We chose planner because it is easy to use and everyone already had access to it with the student account provided by THUAS. Also it is linked to OneDrive for easy sharing of documents. In the picture there is an example of the Planner view.
 
@@ -115,7 +122,7 @@ We used Microsoft Planner to plan our sprints. We chose planner because it is ea
 
 
  
-7. ### References
+8. ### References
 
 Python lambda function
 https://www.w3schools.com/python/python_lambda.asp
