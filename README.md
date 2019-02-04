@@ -45,7 +45,7 @@ Here is a proof of completing the assigned tasks in Data Camp. In the picture is
      
  5. ### Coursera
  
- Here is a proof of completing the assigned tasks in Coursera. In these pictures are screen shots from the course overview and the completed tasks from the machihne learning course.
+ Here is a proof of completing the assigned tasks in Coursera. In these pictures are screen shots from the course overview and the completed tasks from the machine learning course.
  
  ![Weeks_1-3](Coursera_1.JPG)
  ![Week_6](Coursera_2.JPG)
