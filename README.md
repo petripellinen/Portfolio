@@ -133,7 +133,7 @@ This part generates a new column to an existing dataframe. The new column is the
 This is the percentages of positive, neutral and negative tweets. It is just to make the result of the analysis easy to understand.
 ![SA_3](SA_3.JPG)
 
-This is the whole python notebook for this sentimental analysis: ![SA_code](Sentiment_Petri.ipynb)
+This is the whole python notebook for this sentimental analysis: [Sentimental Analysis](Sentiment_Petri.ipynb)
 
 8. ### Planning
 
