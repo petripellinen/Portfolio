@@ -116,7 +116,14 @@ Everyone of our group has to do a presentation at least two times. We decided to
 
 7. ### Trial and error
 
-In this section there is some work during the course that did not end up on the final project. 
+In this section there is some work during the course that did not end up on the final project.
+
+This is an early attempt to count the frequency of words. It is only for one user at a time and produces really messy output so it had to be fixed and made in a better way to the final project. This is before I discovered the power of lambda-function.
+
+![count_try](try.JPG)
+
+I worked on the sentimental analysis for tweets on my own because I wanted to understand how it works. Here is a simple sentimental analysis on Elon Musk's recent tweets. The function of this analysis is just to show percentages of positive, neutral and negative tweets.
+
 
 8. ### Planning
 
