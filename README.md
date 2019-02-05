@@ -124,6 +124,16 @@ This is an early attempt to count the frequency of words. It is only for one use
 
 I worked on the sentimental analysis for tweets on my own because I wanted to understand how it works. Here is a simple sentimental analysis on Elon Musk's recent tweets. The function of this analysis is just to show percentages of positive, neutral and negative tweets.
 
+In this picture there is the definition of simple cleaning of the tweets and analyzation of the sentiment.
+![SA_1](SA_1.JPG)
+
+This part generates a new column to an existing dataframe. The new column is the result of the sentimental analysis. Rules are as follows: 1 = Positive, 0 = Neutral and -1 = Negative
+![SA_2](SA_2.JPG)
+
+This is the percentages of positive, neutral and negative tweets. It is just to make the result of the analysis easy to understand.
+![SA_3](SA_3.JPG)
+
+This is the whole python notebook for this sentimental analysis: ![SA_code](Sentiment_Petri.ipynb)
 
 8. ### Planning
 
