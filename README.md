@@ -114,7 +114,11 @@ Everyone of our group has to do a presentation at least two times. We decided to
   
    * 3.- [My third Presentation](cybersecurity_week13.pdf)
 
-7. ### Planning
+7. ### Trial and error
+
+In this section there is some work during the course that did not end up on the final project. 
+
+8. ### Planning
 
 We used Microsoft Planner to plan our sprints. We chose planner because it is easy to use and everyone already had access to it with the student account provided by THUAS. Also it is linked to OneDrive for easy sharing of documents. In the picture there is an example of the Planner view.
 
@@ -122,7 +126,7 @@ We used Microsoft Planner to plan our sprints. We chose planner because it is ea
 
 
  
-8. ### References
+9. ### References
 
 Python lambda function
 https://www.w3schools.com/python/python_lambda.asp
